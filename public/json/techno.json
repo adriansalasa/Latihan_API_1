@@ -1,0 +1,77 @@
+{
+	"Technology":[
+
+					{
+						"Kategori" :"Internet of Things",
+						"Nama" : "Colokan Listrik Pintar",
+						"Deskripsi" : "Ide project untuk Internet of Thing yang pertama adalah pembuatan colokan listrik pintar. Colokan listrik yang dimiliki dikoneksikan dengan Wi-Fi. ",
+						"Gambar" : "iot1.png"
+
+					},
+
+					{					
+						"Kategori" :"Internet of Things",
+						"Nama" : "Smart Garage Door",
+						"Deskripsi" : " Seperti namanya, project Smart Garage Door merupakan project IoT yang dapat memonitor status pintu garasi sekaligus membukanya dengan fitur scanner sidik jari. ",
+						"Gambar" : "iot2.png"
+					},
+
+					{
+
+						"Kategori" :"Internet of Things",
+						"Nama" : "Kulkas Pintar",
+						"Deskripsi" : "Salah satu ide project untuk Internet of Thing adalah penerapan kulkas pintar. Biasanya, ketika ingin melihat persediaan makanan atau lainnya di kulkas. ",
+						"Gambar" : "iot3_1.jpg"
+					},
+
+					{
+
+						"Kategori" :"Internet of Things",
+						"Nama" : "Smart Trash Can",
+						"Deskripsi" : "Tempat sampah pintar merupakan bentuk inovasi lainnya yang bisa Anda jadikan sebagai referensi. Dengan alat ini, Anda bisa mengoptimalkan pengumpulan sampah  ",
+						"Gambar" : "iot4.jpg"
+					},
+
+					{
+
+						"Kategori" :"Internet of Things",
+						"Nama" : "IoT Doorbell",
+						"Deskripsi" : "Sesuai namanya, teknologi internet yang ada pada ponsel dihubungkan dengan perangkat pada bel pintu rumah. Dengan project ini, Anda bisa memantau siapa saja yang datang bertamu ke rumah. ",
+						"Gambar" : "iot5.jpg"
+					},
+
+					{
+
+						"Kategori" :"Internet of Things",
+						"Nama" : "IoT Monitor Kesehatan",
+						"Deskripsi" : "Teknologi internet of things juga banyak diimplementasikan dalam bidang kesehatan. Beberapa orang membuat inovasi di bidang kesehatan dengan membuat alat yang dapat memantau kesehatan pasien jarak jauh.  ",
+						"Gambar" : "iot6.png"
+					},
+
+					{
+
+						"Kategori" :"Security",
+						"Nama" : "Hacking",
+						"Deskripsi" : "Teknologi internet of things juga banyak diimplementasikan dalam bidang kesehatan. Beberapa orang membuat inovasi di bidang kesehatan dengan membuat alat yang dapat memantau kesehatan pasien jarak jauh.  ",
+						"Gambar" : "hacking.jpg"
+					},
+
+					{
+
+						"Kategori" :"Security", 
+						"Nama" : "Cracking",
+						"Deskripsi" : "Cracking adalah kegiatan membobol suatu sistem komputer dengan tujuan menggambil.Sedangkan orang yang melakukan cracking disebut cracker. Menurut riset Clear Commerce Inc, ",
+						"Gambar" : "cracking.jpg"
+					},
+
+					{
+
+						"Kategori" :"Security",
+						"Nama" : "Carding",
+						"Deskripsi" : "Carding adalah berbelanja menggunakan nomor dan identitas kartu kredit orang lain, yang diperoleh secara ilegal, biasanya dengan mencuri data di internet. Sebutan pelakunya adalah Carder. Sebutan lain untuk kejahatan jenis ini adalah cyberfroud alias penipuan di dunia maya.  ",
+						"Gambar" : "carding.jpg"
+					}
+
+
+				]
+}

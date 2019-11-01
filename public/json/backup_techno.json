@@ -1,0 +1,53 @@
+{
+	"Technology":[
+
+					{
+						"Kategori" :"Internet of Things",
+						"Nama" : "Colokan Listrik Pintar",
+						"Deskripsi" : "Ide project untuk Internet of Thing yang pertama adalah pembuatan colokan listrik pintar. Colokan listrik yang dimiliki dikoneksikan dengan Wi-Fi dan disambungkan dengan barang-barang elektronik seperti lampu atau oven. Jadi, Anda nantinya bisa menghidupkan maupun mematikan sambungan listrik dengan jangkauan internet pada ponsel yang terkoneksi ke colokan listrik tersebut. Dengan cara seperti ini, ketika berada di luar rumah dan lupa mematikan lampu atau barang elektronik, Anda hanya perlu membuka ponsel dan mematikan koneksi listriknya via jarak jauh.",
+						"Gambar" : "iot1.png"
+
+					},
+
+					{					
+						"Kategori" :"Internet of Things",
+						"Nama" : "Smart Garage Door",
+						"Deskripsi" : " Seperti namanya, project Smart Garage Door merupakan project IoT yang dapat memonitor status pintu garasi sekaligus membukanya dengan fitur scanner sidik jari. Apabila menerapkan project ini, Anda bisa memonitor garasi dimanapun berada melalui ponsel. Untuk akses pembukanya juga akan lebih aman karena harus melalui scan sidik jari yang ada di ponsel Anda. Cara ini akan menginformasikan Anda yang tidak tahu ketika ada akses paksa dari pihak-pihak yang berusaha masuk ke garasi. ",
+						"Gambar" : "iot2.png"
+					},
+
+					{
+
+						"Kategori" :"Internet of Things",
+						"Nama" : "Kulkas Pintar",
+						"Deskripsi" : "Salah satu ide project untuk Internet of Thing adalah penerapan kulkas pintar. Biasanya, ketika ingin melihat persediaan makanan atau lainnya di kulkas, kita harus melihat langsung isi dalam kulkas. Namun, dengan inovasi kulkas pintar, Anda bisa melacak persediaan apa yang menipis atau telah habis melalui internet smartphone yang terhubung dengan kulkas tersebut. Jadi, dengan melihat notifikasi, Anda bisa segera berbelanja untuk mensuplai kembali persediaan yang hampir habis.. ",
+						"Gambar" : "iot3_1.jpg"
+					},
+
+					{
+
+						"Kategori" :"Internet of Things",
+						"Nama" : "Smart Trash Can",
+						"Deskripsi" : "Tempat sampah pintar merupakan bentuk inovasi lainnya yang bisa Anda jadikan sebagai referensi. Dengan alat ini, Anda bisa mengoptimalkan pengumpulan sampah dan meminimalisir konsumsi bahan bakar. Sistem pada tempat sampah sendiri akan memberikan notifikasi mengenai jumlah dalam bak tersebut serta suhu bak. Inovasi ini tentu akan sangat berguna untuk mereka yang bekerja mengumpulkan sampah serta semua warga kota secara keseluruhan. ",
+						"Gambar" : "iot4.jpg"
+					},
+
+					{
+
+						"Kategori" :"Internet of Things",
+						"Nama" : "IoT Doorbell",
+						"Deskripsi" : "Sesuai namanya, teknologi internet yang ada pada ponsel dihubungkan dengan perangkat pada bel pintu rumah. Dengan project ini, Anda bisa memantau siapa saja yang datang bertamu ke rumah ketika si empunya sedang bepergian. Notifikasi yang dikirimkan ke ponsel bisa berupa sms atau email. ",
+						"Gambar" : "iot5.jpg"
+					},
+
+					{
+
+						"Kategori" :"Internet of Things",
+						"Nama" : "IoT Monitor Kesehatan",
+						"Deskripsi" : "Teknologi internet of things juga banyak diimplementasikan dalam bidang kesehatan. Beberapa orang membuat inovasi di bidang kesehatan dengan membuat alat yang dapat memantau kesehatan pasien jarak jauh. Data dari sensor yang terpasang pada pasien nantinya akan ditransfer pada operatornya melalui internet. Dengan begitu, dokter bisa menganalisis kesehatan pasien dan menyarankan praktik klinis ketika terjadi hal-hal yang tidak diinginkan. ",
+						"Gambar" : "iot6.jpg"
+					}
+
+
+				]
+}
